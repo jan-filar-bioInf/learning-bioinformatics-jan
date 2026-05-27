@@ -1,0 +1,3 @@
+#replace all spaces with ... 
+text = input(":")
+print (text.replace(" ", "...",))
